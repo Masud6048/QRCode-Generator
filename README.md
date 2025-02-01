@@ -1,5 +1,5 @@
 # QRCode-Generator
 
-using node modules(inquirer)
+using node.js -> module(inquirer)
 
 run : node "fileName"
